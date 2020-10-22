@@ -13,7 +13,7 @@ The code uses data from [Kaggle](https://www.kaggle.com/wordsforthewise/lending-
 (`Loan Prediction Modelv3.ipynb`) is in the form of a Jupyter Notebook. The code outputs `loan_prediction_model.h5` which is all the weights and biases it learnt when creating the
 model.
 
-## 3. How do run the code?
+## 3. How do I run the code?
 The Python code (`Loan Prediction Modelv3.ipynb`) is in the form of a Jupyter Notebook. If you download the code and the data (LoanDefaultModel/Data/) and run it locally; 
 it should run and produce the h5 model as an output. 
 
